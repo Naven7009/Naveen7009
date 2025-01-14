@@ -4,10 +4,10 @@
 I'm Navenraj, a Test Automation Engineer specializing in diverse testing methodologies like functional, regression, exploratory, and globalization/localization testing.
 
 ## 🛠️ What do I work with?
-- **UI Testing**: Selenium, Playwright,
+- **UI Testing**: Selenium, Playwright
 - **API Testing**: RestAssured, Postman
 - **Frameworks**: JUnit, TestNG, Cucumber
-- **DevOps**: Git, GitHub, Bitbucket, Jenkins,
+- **DevOps**: Git, GitHub, Bitbucket, Jenkins
 - **Programming Languages**: Java, TypeScript
 
 ## 🧑‍💻 What do I do?
