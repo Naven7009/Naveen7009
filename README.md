@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🙋‍♂️ Who am I?
-I'm Navenraj, a Test Automation Engineer specializing in diverse testing methodologies like functional, regression, exploratory, and globalization/localization testing.
+I'm Navenraj, a Test Automation Engineer specializing in diverse testing methodologies like functional, regression, exploratory, and globalizationlocalization testing.
 
 ## 🛠️ What do I work with?
 - **UI Testing**: Selenium, Playwright
