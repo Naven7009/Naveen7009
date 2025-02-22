@@ -18,6 +18,7 @@ I'm Navenraj, a **Test Automation Engineer** specializing in diverse testing met
 - Contribute to enhancing application quality by promptly reporting bugs through regression analysis & exploratory testing.
 - Validate global readiness of the application through localization/globalization testing.
 
-## 📫 How to reach me?
-- [LinkedIn Profile](https://www.linkedin.com/in/navenraj-selvam/)
-- 📧 Email: navenrajselvam@gmail.com
+## 📫 How to Reach Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/navenraj-selvam-790805284/)  
+- 📧 Email: [navenrajselvam@gmail.com](mailto:navenrajselvam@gmail.com)
+
